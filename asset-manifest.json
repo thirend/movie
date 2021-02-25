@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/thirend/movie.git/static/css/main.411528ae.chunk.css",
+    "main.js": "/thirend/movie.git/static/js/main.7196a6a5.chunk.js",
+    "main.js.map": "/thirend/movie.git/static/js/main.7196a6a5.chunk.js.map",
+    "runtime-main.js": "/thirend/movie.git/static/js/runtime-main.1ba6ec3c.js",
+    "runtime-main.js.map": "/thirend/movie.git/static/js/runtime-main.1ba6ec3c.js.map",
+    "static/js/2.9f7b0937.chunk.js": "/thirend/movie.git/static/js/2.9f7b0937.chunk.js",
+    "static/js/2.9f7b0937.chunk.js.map": "/thirend/movie.git/static/js/2.9f7b0937.chunk.js.map",
+    "index.html": "/thirend/movie.git/index.html",
+    "static/css/main.411528ae.chunk.css.map": "/thirend/movie.git/static/css/main.411528ae.chunk.css.map",
+    "static/js/2.9f7b0937.chunk.js.LICENSE.txt": "/thirend/movie.git/static/js/2.9f7b0937.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ba6ec3c.js",
+    "static/js/2.9f7b0937.chunk.js",
+    "static/css/main.411528ae.chunk.css",
+    "static/js/main.7196a6a5.chunk.js"
+  ]
+}
